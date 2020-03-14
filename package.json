@@ -1,0 +1,14 @@
+{
+  "name": "20200314_101220",
+  "version": "1.0.0",
+  "repository": "https://github.com/MashaGn/task18-test.git",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
